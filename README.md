@@ -98,6 +98,10 @@ Sua ajuda é muito importante! [Você pode ajudar no desenvolvimento e na divulg
 
 Usa o LyX? O abnTeX2 é compatível! Veja como instalar o arquivo de layout e o modelo de documento do [abnTeX2 para LyX](https://github.com/abntex/abntex2/wiki/LyX).
 
+# Limarka #
+
+O [limarka](https://github.com/abntex/limarka) é uma ferramenta que possibilita o usuário escrever o seu trabalho de conclusão de curso (monografia, dissertação ou teste) em Markdown. Ela converte o trabalho produzido em Markdown para LaTeX, utilizando um template baseado no modelo de trabalho acadêmico do abnTeX2, e produz PDFs em conformidade com as normas da ABNT.
+
 # Apoio #
 
 Este projeto agradece o apoio:

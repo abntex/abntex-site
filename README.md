@@ -10,7 +10,7 @@ Visite a página do [abnTeX2 no CTAN](https://www.ctan.org/pkg/abntex2).
 
 O abnTeX2 é compatível com as seguintes normas vigentes:
 
-  * **ABNT NBR 6022:2003**: Informação e documentação - Artigo em publicação periódica científica impressa - Apresentação
+  * **ABNT NBR 6022:2018**: Informação e documentação - Artigo em publicação periódica científica impressa - Apresentação
   * **ABNT NBR 6023:2002**: Informação e documentação - Referência - Elaboração
   * **ABNT NBR 6024:2012**: Informação e documentação - Numeração  progressiva das seções de um documento - Apresentação
   * **ABNT NBR 6027:2012**: Informação e documentação - Sumário - Apresentação

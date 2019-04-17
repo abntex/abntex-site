@@ -4,4 +4,4 @@ Conteúdo do site http://abntex.net.br
 
 # Projetos do abntex
 
-Entre no portal https://github.com/abntex para conhecer os projeto.s
+Os projetos do abntex estão em: https://github.com/abntex
